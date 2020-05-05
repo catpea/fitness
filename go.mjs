@@ -27,6 +27,10 @@ const options = {
     path: './dist',
     file: 'index.js',
   },
+  mjs: {
+    path: './dist',
+    file: 'index.mjs',
+  },
   sh: {
     path: './dist',
     file: 'advice.sh',
@@ -94,6 +98,17 @@ fs.ensureDirSync(options.js.path);
 fs.writeFileSync(path.join(options.js.path,options.js.file), jsVersion);
 
 
+
+const mjsVersion = `const advice = ${JSON.stringify( data .map(o => o.content.trim()) .map(s=>s.replace(/\n/g, ' ')) .map(s=>s.replace(/ +/g, ' ')) , null, '  ')};
+
+export default function main(){
+  return advice;
+}
+`;
+fs.ensureDirSync(options.mjs.path);
+fs.writeFileSync(path.join(options.mjs.path,options.mjs.file), mjsVersion);
+
+
 const shVersion = `#!/usr/bin/env -S node --experimental-modules --no-warnings
 const advice = ${JSON.stringify( data .map(o => o.content.trim()) .map(s=>s.replace(/\n/g, ' ')) .map(s=>s.replace(/ +/g, ' ')) , null, '  ')};
 
@@ -104,4 +119,4 @@ main();
 `;
 fs.ensureDirSync(options.sh.path);
 fs.writeFileSync(path.join(options.sh.path,options.sh.file), shVersion);
-fs.chmodSync(path.join(options.sh.path,options.sh.file), 0o755); 
+fs.chmodSync(path.join(options.sh.path,options.sh.file), 0o755);
