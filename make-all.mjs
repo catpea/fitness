@@ -15,6 +15,10 @@ const options = {
   db: {
     path: './db',
   },
+  docs: {
+    path: './docs',
+    file: 'index.html',
+  },
   html: {
     path: './dist',
     file: 'index.html',
@@ -76,6 +80,9 @@ const htmlVersion = `<!DOCTYPE html>
 `;
 fs.ensureDirSync(options.html.path);
 fs.writeFileSync(path.join(options.html.path,options.html.file), pretty(htmlVersion));
+
+fs.ensureDirSync(options.docs.path);
+fs.writeFileSync(path.join(options.docs.path,options.docs.file), pretty(htmlVersion));
 
 
 const mdVersion = `# ${options.title}
