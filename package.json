@@ -1,0 +1,29 @@
+{
+  "name": "fitness",
+  "version": "1.0.0",
+  "description": "Markdown source for fitness advice.",
+  "main": "go.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catpea/fitness.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catpea/fitness/issues"
+  },
+  "homepage": "https://github.com/catpea/fitness#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "gray-matter": "^4.0.2",
+    "lodash": "^4.17.15",
+    "marked": "^1.0.0",
+    "moment": "^2.25.3",
+    "moment-timezone": "^0.5.28",
+    "pretty": "^2.0.0"
+  }
+}
