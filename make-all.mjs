@@ -19,6 +19,9 @@ const options = {
     path: './docs',
     file: 'index.html',
   },
+  dist: {
+    path: './dist',
+  },
   html: {
     path: './dist',
     file: 'index.html',
@@ -45,19 +48,27 @@ const options = {
   },
 }
 
-// Create Changelog
-  const data = fs.readdirSync(path.resolve(options.db.path), {
-    withFileTypes: true
-  })
-  .filter(o => o.isFile())
-  .map(o => o.name)
-  .filter(s => s.endsWith('.md'))
-  .sort()
-  .map(name => ({ name, path: path.join(options.db.path, name) }))
-  .map(o => ({ ...o, raw: fs.readFileSync(o.path).toString() }))
-  .map(o => ({ ...o, ...matter(o.raw) }))
-  .map(o => ({ ...o, html: marked(o.content, {}) }))
-  .reverse()
+fs.ensureDirSync(options.docs.path);
+fs.readdirSync(path.resolve(options.db.path), { withFileTypes: true })
+.filter(o => o.isDirectory())
+.map(o => o.name)
+.map(name => ({ name, path: path.join(options.db.path, name) }))
+.map(o=>{fs.copySync(o.path, path.join(options.docs.path, o.name) ); return o;})
+.map(o=>{fs.copySync(o.path, path.join(options.dist.path, o.name) ); return o;})
+
+
+const data = fs.readdirSync(path.resolve(options.db.path), {
+  withFileTypes: true
+})
+.filter(o => o.isFile())
+.map(o => o.name)
+.filter(s => s.endsWith('.md'))
+.sort()
+.map(name => ({ name, path: path.join(options.db.path, name) }))
+.map(o => ({ ...o, raw: fs.readFileSync(o.path).toString() }))
+.map(o => ({ ...o, ...matter(o.raw) }))
+.map(o => ({ ...o, html: marked(o.content, {}) }))
+.reverse()
 
 
 
@@ -67,17 +78,19 @@ const htmlVersion = `<!DOCTYPE html>
   <meta charset="utf-8" />
   <title>${options.title}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="css/pico.classless-1.0.2.min.css">
 </head>
 <body>
   <main>
-    <article>
+    <h1>${options.title}</h1>
       ${data.map(o => `
-      <section class="log-entry" itemscope itemtype="http://schema.org/CreativeWork">
+      <article>
+        <section class="log-entry" itemscope itemtype="http://schema.org/CreativeWork">
         <meta itemprop="dateCreated" datetime="${(new Date(o.data.date)).toISOString()}">
-        ${o.html}
-      </section>
+        <h2>${o.html}</h2>
+        </section>
+      </article>
       `).join('\n')}
-    </article>
   </main>
 </body>
 </html>
