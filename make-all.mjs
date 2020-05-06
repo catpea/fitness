@@ -27,6 +27,10 @@ const options = {
     path: './dist',
     file: 'README.md',
   },
+  readme: {
+    path: './',
+    file: 'README.md',
+  },
   js: {
     path: './dist',
     file: 'index.js',
@@ -86,10 +90,12 @@ fs.writeFileSync(path.join(options.docs.path,options.docs.file), pretty(htmlVers
 
 
 const mdVersion = `# ${options.title}
+
 ${data.map(o=>o.content.trim()).map(s=>`- ${s}`).join('\n')}
 `;
 fs.ensureDirSync(options.md.path);
 fs.writeFileSync(path.join(options.md.path,options.md.file), mdVersion);
+fs.writeFileSync(path.join(options.readme.path,options.readme.file), mdVersion);
 
 
 

@@ -1,4 +1,5 @@
 # Bodybuilding Advice
+
 - You must train for several months, prior to your first real workout.
 - You must accept the responsibility for your own existence, only you can fix your problems.
 - Working out without months of training and preparations leading up to your workout, will result in lethargy, dehydration, injury, and death.
