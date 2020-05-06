@@ -1,4 +1,4 @@
-# Bodybuilding Advice
+# Fitness
 
 - You must train for several months, prior to your first real workout.
 - You must accept the responsibility for your own existence, only you can fix your problems.
