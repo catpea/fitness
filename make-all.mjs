@@ -94,7 +94,7 @@ const htmlVersion = `<!DOCTYPE html>
       `).join('\n')}
   </main>
   <footer>
-    <small><a href="${options.title}">Source Code</a></small>
+    <small><a href="${options.source}">Source Code</a></small>
   </footer>
 </body>
 </html>
