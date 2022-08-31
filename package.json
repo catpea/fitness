@@ -23,7 +23,7 @@
     "lodash": "^4.17.15",
     "marked": "^1.0.0",
     "moment": "^2.25.3",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.35",
     "pretty": "^2.0.0"
   }
 }
