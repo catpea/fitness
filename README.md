@@ -1,88 +1,117 @@
-# Fitness
+## Training Philosophy
 
-- You must train for several months, prior to your first real workout.
-- You must accept the responsibility for your own existence, only you can fix your problems.
-- Working out without months of training and preparations leading up to your workout, will result in lethargy, dehydration, injury, and death.
-- The triumph is not in what you look like, anybody can have surgery, the triumph is a sham - become a protector of your years, keeper of your youth.
-- There is no time, use both of your hands at the same time, don't make it easy, make it difficult; tell your body that you need more.
-- There is no such thing as sets and reps, your body will not receive the signal to adapt your musculature if you just workout for two minutes an hour.
-- The authenticity of your workout, represents the authenticity of your mind.
-- Stop swinging your weights.
-- Stop Resting.
-- Stop Pretending.
-- Respect personal space.
-- Re-hydrate.
-- Quit smoking, people can't care about you if you don't care about yourself.
-- Put your phone away.
-- Put all the weights you are not using back on the rack.
-- Prepare to return tomorrow.
-- Never use machines that require sitting or laying down.
-- Never Stop.
-- Move your feet, like a boxer.
-- Move your feet.
-- Make sure you come back tomorrow.
-- Lower your weight if it is too heavy, don't stop - get under the muscle pain, failure, and pain buildup.
-- Keep moving.
-- It is not how heavy you lift, it is how long you lift your heavy for.
-- If You lift heavy to pretend you are a bad ass, those who will notice you, will see that you are sitting around pretending to rest your legs to an arm workout, while playing with your phone in the middle of a gym.
-- If you have to stop then, it is too heavy.
-- If you had to stop then you chose weights that are just too heavy for you to lift.
-- If you feel that you are too large to begin your workout at the gym, you should start at the Appalachian or Pacific Crest Trail.
-- If you do end up working out every day but fail to show progress in a few weeks, then people will know you just spent a few weeks pretending to work out.
-- If you are sick go home, don't make other people sick.
-- If you are overweight; get rid of all kitchen appliances including your refrigerator, stove, electric skillets, ovens, toaster; and even the mixer.
-- If you are overweight, add shredded lettuce to your diet, it will lower the caloric density of your daily food intake, thus you will consume less calories per day.
-- If you are desperate to begin losing weight right now, right this moment; go home and cut off all the plugs from your electric appliances.
-- Get up.
-- Get rid of your microwave, cut the damn cord.
-- Focus on your exercise.
-- Focus on your dance moves.
-- Focus on your breathing.
-- Focus.
-- Everything you think you know is wrong, and most of the right things require that you stop pretending that you know how to do it, and actually figure it out by trial and error on your own.
-- Ensure proper levels of Sodium, Magnesium, Zinc, Calcium, and Potassium.
-- Drink water.
-- Don't wear gray or black, dress like an athlete or superhero, your older self will regret dressing up like everybody else.
-- Don't use your phone.
-- Don't talk.
-- Don't take selfies or photos, people don't want to be in your pictures.
-- Don't take days off.
-- Don't swing weights, engage as many muscles as you can.
-- Don't swing weights.
-- Don't stare.
-- Don't sit down.
-- Don't sit.
-- Don't rest, use a lower weight during your rest.
-- Don't rest.
-- Don't pretend.
-- Don't make distracting noises.
-- Don't lift too heavy, you won't impress anyone.
-- Don't lie, don't cheat, don't steal; don't tolerate any of those who do.
-- Don't lean into people.
-- Don't lay.
-- Don't judge, focus on you own exercise, sometimes people come here to get away from their problems.
-- Don't grunt.
-- Don't give up.
-- Don't eat cheat meals.
-- Don't drop weights.
-- Don't creep up.
-- Don't copy workouts, not everyone is working out.
-- Do not walk into other people's personal space.
-- Do not use equipment that forces you to lay down, it will make you look really bad.
-- Do not talk, to each other, or on the phone, exercise requires focus and talking is too distracting to everyone around you.
-- Do not pretend to work out, the only person you are cheating at a gym is yourself. In a few weeks people will notice that you made no progress and will think less of you.
-- Do not point your phone camera at other people.
-- Dance with your feet like a boxing butterfly.
-- Check your body odor, do not use deodorants. Use hand sanitizer to kill odor causing bacteria.
-- Check if your breath smells.
-- Be respectful of other people's hard work.
-- Become ultra, become superhuman by extending your endurance to greater and greater heights.
-- Become a leader and synthesize your own ideas, use the scientific method to asses their efficacy.
-- Become a great warrior.
-- A workout should last over two hours.
-- A workout must be non stop, once you stop, it is over, you go home, rest and workout a little bit longer the next day.
-- A Workout is similar to reaching Mount Everest. Before you arrive you have to educate your mind and incrementally prepare your body by increasing its endurance.
-- A two hour non-stop workout, it is a reward for persistence earned with several months of preparation and endurance training.
-- Ask your older self about the regrets they may have.
-How will your older self feel about you never finishing and always quitting?
-Prevent those regrets from existing, today.
+- You must build a foundation over 4-8 weeks before intense training to prevent injury and ensure progress.
+- You must accept responsibility for your health while seeking guidance from qualified professionals when needed.
+- Working out with proper preparation, warm-up, and progressive overload will result in strength, endurance, and vitality.
+- The triumph is in the discipline you build, the health you gain, and becoming the best version of yourself.
+- Make efficient use of your time - use compound movements, supersets when appropriate, but always with proper form.
+- Sets and reps are crucial for progressive overload - your body needs structured stimulus to adapt (typically 3-5 sets, 6-15 reps for hypertrophy).
+- The quality of your workout represents your commitment to self-improvement.
+
+## Form & Technique
+
+- Control the weight through the full range of motion - no swinging.
+- Rest 30 seconds to 3 minutes between sets depending on your goals - recovery is when muscles grow.
+- Train with intensity and purpose, not for show.
+- Respect everyone's personal space - minimum 3 feet when possible.
+- Hydrate before, during, and after workouts - aim for clear or light yellow urine.
+- If you smoke, seek support to quit - your cardiovascular health depends on it.
+- Use your phone only between sets for logging workouts or changing music.
+- Always re-rack weights immediately after use.
+- Plan to train 3-5 times per week with at least one rest day.
+
+## Exercise Selection
+
+- Use both free weights and machines strategically - machines can be excellent for isolation and safety.
+- Compound movements (squats, deadlifts, presses) should form your foundation.
+- Stay active between sets with light movement or stretching if desired.
+- Include both bilateral and unilateral exercises for balanced development.
+- Consistency beats intensity - show up regularly.
+
+## Load Management
+
+- Choose weights that challenge you while maintaining perfect form throughout all reps.
+- Progressive overload is key - gradually increase weight, reps, or sets over time.
+- If form breaks down, lower the weight - ego lifting leads to injury.
+- Time under tension matters more than the weight on the bar.
+- Track your workouts to ensure consistent progress.
+
+## Training Approach
+
+- Start with bodyweight exercises if you're new to fitness - build up gradually.
+- Expect visible progress in 4-6 weeks with consistent training and proper nutrition.
+- Stay home when sick to recover and protect others.
+- Train 45-90 minutes per session - quality over quantity.
+- Focus on one task at a time during your workout.
+
+## Nutrition & Recovery
+
+- Maintain a balanced diet with adequate protein (0.7-1g per pound of body weight).
+- Create a moderate caloric deficit (300-500 calories) for fat loss, not extreme restriction.
+- Add vegetables and fiber to increase satiation and nutritional value.
+- Meal prep supports consistency, but keep all kitchen appliances - cooking healthy food is essential.
+- Sleep 7-9 hours nightly for optimal recovery.
+- Take 1-2 rest days per week - muscles grow during recovery, not just training.
+
+## Mental Approach
+
+- Focus on your own journey - everyone progresses at different rates.
+- Dress in comfortable athletic wear that makes you feel confident.
+- Maintain concentration during sets - save conversations for after the workout.
+- Document progress with occasional photos, but be mindful of others' privacy.
+- Take scheduled deload weeks every 4-6 weeks to prevent burnout.
+- Use controlled breathing - exhale on exertion, inhale on the eccentric.
+
+## Gym Etiquette
+
+- Wipe down equipment after each use.
+- Keep noise to a minimum - controlled breathing, not screaming.
+- Don't monopolize equipment - offer to let others work in during rest periods.
+- Return all equipment to its proper place.
+- Be encouraging to others when appropriate, but respect their focus.
+- Ask before giving advice - unsolicited coaching is often unwelcome.
+
+## Safety First
+
+- Always warm up for 5-10 minutes before lifting.
+- Use proper footwear - flat, stable shoes for most lifts.
+- Ask for a spotter on heavy compound lifts.
+- Learn proper form before adding weight.
+- Stop if you feel sharp pain - distinguish between muscle fatigue and injury.
+- Stay hydrated but don't overhydrate - balance electrolytes.
+
+## Balanced Perspective
+
+- Fitness enhances life; it shouldn't consume it entirely.
+- Rest days are part of the program, not a failure.
+- Occasional indulgences are fine within an overall healthy lifestyle.
+- Find activities you enjoy - adherence is more important than the "perfect" program.
+- Celebrate small victories along the way.
+- Remember that health includes mental and emotional wellbeing, not just physical.
+
+## Long-term Success
+
+- Build sustainable habits rather than relying on extreme measures.
+- Work with certified trainers when starting out or hitting plateaus.
+- Regular health check-ups ensure you're training safely.
+- Adjust your program as you age - longevity matters more than peak performance.
+- Support others in their fitness journey - community enhances motivation.
+- Remember: fitness is a marathon, not a sprint.
+
+## Evidence-Based Principles
+
+- Follow established programs from credible sources initially.
+- Use the scientific method to assess what works for YOUR body.
+- Question extreme claims and fad approaches.
+- Prioritize compound movements, progressive overload, and adequate recovery.
+- Ensure proper intake of macronutrients and micronutrients from whole foods.
+- Supplement only when necessary (vitamin D, omega-3s, creatine have strong evidence).
+
+## Sustainable Motivation
+
+- Set SMART goals - Specific, Measurable, Achievable, Relevant, Time-bound.
+- Find your deeper "why" beyond aesthetics.
+- Build a support system of like-minded individuals.
+- Track progress through multiple metrics, not just weight.
+- Adjust your program every 8-12 weeks to prevent plateaus.
+- Remember: the best workout plan is the one you'll actually follow consistently.
